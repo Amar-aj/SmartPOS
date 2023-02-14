@@ -10,8 +10,4 @@
     <ProjectReference Include="..\Migrations.SQL\Migrations.SQL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\Common\" />
-  </ItemGroup>
-
 </Project>
